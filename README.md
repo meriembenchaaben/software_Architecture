@@ -1,2 +1,2 @@
 # software_Architecture
-School Mini Projects 
+Examples of application of SOLID principles with java 
